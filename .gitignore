@@ -1,0 +1,24 @@
+# Python
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+.venv/
+app/.venv/
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/.turbo/
+web/.vercel/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Builds
+dist/
+build/
+
+# macOS
+.DS_Store
